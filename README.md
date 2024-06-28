@@ -2,14 +2,8 @@
  <h1>Hey there, I'm Majnun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
 Glad to see you there!
-
-
 <img src="https://komarev.com/ghpvc/?username=majnun917&style=flat-square&color=blue" alt=""/>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -21,7 +15,7 @@ Glad to see you there!
   
   - 🔭: I'm working as a.
   
-  - ⚡: In my free time, i read teach articles and do some challenge to improve my skills on programming.
+  - ⚡: In my free time, i like read tech articles and watch  and do some challenge to improve my skills on programming.
   - 
   - 📫: How to reach me: [Ndiasse Dieye](dieye.ndiasse17@gmail.com).
 ---
@@ -43,9 +37,9 @@ Glad to see you there!
 ---
 
 ### 📈: My Github stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majnun917&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majnun917&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majnun917&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majnun917&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
