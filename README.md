@@ -37,10 +37,9 @@ Glad to see you there!
 ---
 
 ### 📈: My Github stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majnun917&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majnun917&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majnun917&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majnun917&layout=donut&theme=vision-friendly-dark)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
