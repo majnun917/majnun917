@@ -1,5 +1,7 @@
 
- <h1>Hey there, I'm Majnun
+ <h1>
+  
+  Hey there, I'm [Majnun](https://github.com/majnun917)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 Glad to see you there!
@@ -10,13 +12,15 @@ Glad to see you there!
 
 ---
 
-### 👨‍💻: About Me:
-  I am a FullStack Developer student
-  
-  - 🔭: I'm working as a.
+### 🚀: About Me:
+ I'm a fullstack developer student with a passion for programming, blockchain technology and information technology, working on various academic and personal projects to strengthen my technical skills.
+
+   - 🌱: I'm still learning: Golang, JavaScript, Database, Agile methodologies, ...
+     
+  - 🔭: I am currently working on academic projects in web development, networks and systems, ...
   
   - ⚡: In my free time, i like read tech articles and watch  and do some challenge to improve my skills on programming.
-  - 
+  - 💬: Don't hesitate to contact me to discuss web development or information technology.
   - 📫: How to reach me: [Ndiasse Dieye](dieye.ndiasse17@gmail.com).
 ---
 ### 🛠️: Languages and Tools:
