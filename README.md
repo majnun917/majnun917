@@ -19,7 +19,7 @@ Glad to see you there!
      
   - 🔭: I am currently working on academic projects in web development, networks and systems, ...
   
-  - ⚡: In my free time, i like read tech articles and watch  and do some challenge to improve my skills on programming.
+  - ⚡: In my free time, i like read tech articles and watch tech videos and do some challenge to improve my skills on programming.
   - 💬: Don't hesitate to contact me to discuss web development or information technology.
   - 📫: How to reach me: [Ndiasse Dieye](dieye.ndiasse17@gmail.com).
 ---
