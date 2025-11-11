@@ -35,7 +35,9 @@ Glad to see you there!
  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" weight="35" height="35" /> <br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" weight="35" height="35" />
    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg#L1" alt="React" weight="35" height="35" />
-   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original.svg" alt="Svelte" weight="35" height="35" /><br><br>
+   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original.svg" alt="Svelte" weight="35" height="35" />
+    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" alt="Spring" weight="35" height="35" /><br>
+ <br>
    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg#L1" alt="Git" weight="35" height="35" />
    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" weight="35" height="35" />
  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="Docker" weight="35" height="35" />
