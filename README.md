@@ -13,7 +13,7 @@ Glad to see you there!
 ---
 
 ### 🚀: About Me:
- I'm a fullstack developer student with a passion for programming, blockchain technology and information technology, working on various academic and personal projects to strengthen my technical skills.
+ I'm a fullstack developer with a passion for programming, blockchain technology and information technology, working on various academic and personal projects to strengthen my technical skills.
 
    - 🌱: I'm still learning: Golang, JavaScript, Java, Rust, Solidity, Database, Agile methodologies, Git, Docker ...
      
